@@ -1,7 +1,7 @@
 # Cinema-ticket-booking-system-
-Name : Ojomah Precious Ufedo
-Matric no : 24/15264
-Department : Cyber security
+* Name : Ojomah Precious Ufedo
+* Matric no : 24/15264
+* Department : Cyber security
 
 # 1. Requirement Analysis
 This system books cinema tickets and displays bookings.
